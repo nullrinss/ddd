@@ -23685,6 +23685,10 @@
     {
       "tooltip": "Partnered Server Owner",
       "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/Partnered%20Server%20Owner.png"
+    },
+    {
+      "tooltip": "Early Verified Bot Developer",
+      "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/EarlyVerifiedBotDeveloper.png"
     }
   ]
 }
