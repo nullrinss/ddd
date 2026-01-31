@@ -23712,5 +23712,11 @@
       "tooltip": "VencoreApp",
       "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/logo.png"
     }
+  ],
+  "762103548569059338": [
+    {
+      "tooltip": "Early Supporter",
+      "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/EarlySupporter.png"
+    }
   ]
 }
